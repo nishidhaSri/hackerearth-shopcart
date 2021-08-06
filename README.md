@@ -1,8 +1,8 @@
 # Shopping Cart Frontend Developer Intern Task
 
-### This webapp [] is made for the task "Frontend Intern Assignment" for Hackerearth
+### This webapp [https://hackerearth-shopcart.vercel.app/] is made for the task "Frontend Intern Assignment" for Hackerearth
 
-### Live hosted link :- []
+### Live hosted link :- [https://hackerearth-shopcart.vercel.app/]
 
 ## List of all major libraries used :-
 
